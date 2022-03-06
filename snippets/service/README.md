@@ -20,6 +20,7 @@ service myservice stop
 service myservice status
 
 service myservice restart
+
 link
-=====
+----
 https://raw.githubusercontent.com/muslih-DIY/linux_bash_repo/main/snippets/service/myservice
