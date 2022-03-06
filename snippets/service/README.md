@@ -1,11 +1,16 @@
 Location
-========
+--------
+
  /etc/init.d/myservice
+
 permission to execute
-=====================
+-----
+
 chmod +x /etc/init.d/myservice
+
 usage
-=======
+---
+
 now start/stop/status/restart the service using following command from linux shell
 
 service myservice start
