@@ -26,7 +26,6 @@ link
 https://raw.githubusercontent.com/muslih-DIY/linux_bash_repo/main/snippets/service/myservice
 
 How to use it
-
 -----
 
 https://youtu.be/-v8udNIl0w4
